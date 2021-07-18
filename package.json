@@ -1,0 +1,47 @@
+{
+  "name": "mrgatobot",
+  "version": "0.0.1",
+  "description": "Un bot de Discord",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "watch": "pm2 start index.js --watch -f"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drgatoxd/MrGatoBot.git"
+  },
+  "author": "Dr. Gato#7850",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drgatoxd/MrGatoBot/issues"
+  },
+  "homepage": "https://github.com/drgatoxd/MrGatoBot#readme",
+  "dependencies": {
+    "among-us-ejection": "^2.0.0",
+    "ascii-table": "^0.0.9",
+    "bitly": "^7.1.2",
+    "canvacord": "^5.2.1",
+    "canvas": "^2.8.0",
+    "canvas-senpai": "^2.0.3",
+    "discord-buttons": "^4.0.0",
+    "discord-reply": "^0.1.2",
+    "discord-together": "^1.1.14",
+    "discord.js": "^12.5.3",
+    "djs-games": "^1.5.2",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "is-url": "^1.2.4",
+    "jimp": "^0.14.0",
+    "megadb": "^3.4.0",
+    "mongoose": "^5.13.2",
+    "nekos.life": "^2.0.7",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.12",
+    "pm2": "^5.1.0",
+    "reddit.images": "^1.0.2",
+    "vaporwave-generator": "^1.0.2",
+    "verify-image-url": "^1.2.3",
+    "zeew-eco": "^2.2.3"
+  }
+}

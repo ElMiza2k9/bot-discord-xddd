@@ -1,0 +1,42 @@
+[
+    {
+        "id": "77c037ad",
+        "name": "hola ",
+        "description": " xD",
+        "price": 12,
+        "isRole": false,
+        "role": null
+    },
+    {
+        "id": "08378153",
+        "name": "hola ",
+        "description": " xD",
+        "price": 12,
+        "isRole": false,
+        "role": null
+    },
+    {
+        "id": "36770fdc",
+        "name": "hola ",
+        "description": " xDd",
+        "price": 12,
+        "isRole": false,
+        "role": null
+    },
+    {
+        "id": "aa90367c",
+        "name": "hola ",
+        "description": " xDd",
+        "price": 12,
+        "isRole": false,
+        "role": null
+    },
+    {
+        "id": "6362a3f3",
+        "name": "hola ",
+        "description": " xDd ",
+        "price": 12,
+        "isRole": true,
+        "role": "847673934237532210"
+    }
+]
