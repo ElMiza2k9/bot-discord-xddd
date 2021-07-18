@@ -23,7 +23,7 @@ module.exports = {
         let pregunta = args.join(" ");
         if (!pregunta) return message.channel.send(`:x: Escribe una pregunta`)
 
-        let respuestas = require('../../util/json/8ball.json');
+        let respuestas = require('../../assets/json/8ball.json');
         let respuesta = respuestas[Math.floor(Math.random() * respuestas.length)]
 
         return message.lineReplyNoMention(`\\🎱 ${respuesta}`)
